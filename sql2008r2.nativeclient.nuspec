@@ -29,4 +29,7 @@
     </description>
     </releaseNotes>FILLMEIN</releaseNotes>
   </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
 </package>
