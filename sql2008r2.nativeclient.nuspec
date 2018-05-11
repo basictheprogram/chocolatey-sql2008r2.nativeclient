@@ -11,7 +11,7 @@
     <copyright>Copyright © XXXXX</copyright>
     <licenseUrl>FILLMEIN</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>http://www.microsoft.com/en-us/download/details.aspx?id=16978/projectSourceUrl>
+    <projectSourceUrl>http://www.microsoft.com/en-us/download/details.aspx?id=16978</projectSourceUrl>
     <docsUrl>FILLMEIN</docsUrl>
     <mailingListUrl>FILLMEIN</mailingListUrl>
     <bugTrackerUrl>FILLMEIN</bugTrackerUrl>
@@ -27,6 +27,6 @@
       SQL Server 2008 R2 features, and optionally installs the header files needed to develop an application that 
       uses the SQL Server Native Client API.
     </description>
-    </releaseNotes></releaseNotes>
+    </releaseNotes>FILLMEIN</releaseNotes>
   </metadata>
 </package>
