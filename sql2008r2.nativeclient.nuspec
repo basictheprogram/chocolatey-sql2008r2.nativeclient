@@ -11,7 +11,7 @@
     <copyright>Copyright © XXXXX</copyright>
     <licenseUrl>http://www.microsoft.com</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>http://www.microsoft.com/en-us/download/details.aspx?id=16978</projectSourceUrl>
+    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=16978</projectUrl>
     <bugTrackerUrl>https://github.com/basictheprogram/chocolatey-sql2008r2.nativeclient/issues</bugTrackerUrl>
     <tags>SQL SQL2008R2 Native Client ODBC OLEDB</tags>
     <summary>Microsoft SQL Server 2008 R2 Feature Pack, October 2011</summary>
