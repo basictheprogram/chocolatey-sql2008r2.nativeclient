@@ -1,10 +1,10 @@
 $ErrorActionPreference = 'Stop'; 
 
 $toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url        = 'https://go.microsoft.com/fwlink/?LinkID=188400&clcid=0x409'
-$checksum   = '35c4b98f7f5f951cae9939c637593333c44aee920efbd4763b7bdca1e23ac335'
-$url64bit   = 'https://go.microsoft.com/fwlink/?LinkID=188401&clcid=0x409'
-$checksum64 = '012aca6cef50ed784f239d1ed5f6923b741d8530b70d14e9abcb3c7299a826cc'
+$url        = 'https://download.microsoft.com/download/2/4/F/24FE862D-7D32-47F2-B91D-22DAFA270BBC/2008%20R2%20ENU-1033/x86/sqlncli.msi'
+$checksum   = 'a9c754af47193bc836dc1e2c88b56177812320dccca5c85c204f00bee5780aee'
+$url64bit   = 'https://download.microsoft.com/download/2/4/F/24FE862D-7D32-47F2-B91D-22DAFA270BBC/2008%20R2%20ENU-1033/x64/sqlncli.msi'
+$checksum64 = '4296bbebd733db708ee53c3753e8c0d1208faf4d5ee8dcd1f2f149c986022994'
 
 $packageArgs = @{
   packageName    = $env:ChocolateyPackageName

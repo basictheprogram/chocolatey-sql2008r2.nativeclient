@@ -2,19 +2,19 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>SQL2008R2.NativeClient</id>
-    <version>10.50.4000.0</version>
+    <version>10.53.6560.0</version>
     <packageSourceUrl>https://github.com/basictheprogram/chocolatey-sql2008r2.nativeclient</packageSourceUrl>    
     <owners>zippy1981 basictheprogram</owners>
-    <title>Microsoft SQL Server 2008 R2 Native Client</title>
+    <title>Microsoft SQL 2008 and 2008 R2 TLS 1.2 SQL Native Client</title>
     <authors>Microsoft</authors>
     <iconUrl>https://github.com/Iristyle/ChocolateyPackages/raw/master/SQL2008.SMO/SQL2008.png</iconUrl>
     <copyright>Copyright © XXXXX</copyright>
     <licenseUrl>http://www.microsoft.com</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=16978</projectUrl>
+    <projectUrl>https://www.microsoft.com/en-us/download/details.aspx?id=57606</projectUrl>
     <bugTrackerUrl>https://github.com/basictheprogram/chocolatey-sql2008r2.nativeclient/issues</bugTrackerUrl>
     <tags>SQL SQL2008R2 Native Client ODBC OLEDB</tags>
-    <summary>Microsoft SQL Server 2008 R2 Feature Pack, October 2011</summary>
+    <summary>SQL 2008 and 2008 R2 TLS 1.2 SQL Native Client, Feburary 2019</summary>
     <description>
       Microsoft SQL Server 2008 R2 Native Client (SQL Server Native Client) is a single dynamic-link library 
       (DLL) containing both the SQL OLE DB provider and SQL ODBC driver. It contains run-time support for 
